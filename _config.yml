@@ -27,7 +27,6 @@ url: "https://webstack.0xl2oot.cn" # the base hostname & protocol for your site,
 email: 0xl2oot@gmail.com
 
 # Build settings
-theme: jekyll-theme-minima
 theme: minima
 plugins:
   - jekyll-feed
